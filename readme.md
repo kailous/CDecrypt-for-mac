@@ -10,10 +10,10 @@ cp ./cdecrypt /usr/local/bin
 ```
 ### Usage: 
 ```sh
-cdecrypt <file or directory>
+cd directory
+cdecrypt ./title.tmd ./title.tik
 ```
-or
-Copy run.sh to [ file or directory ] and run it.
+Alternatively, run Run.app and select [ File Directory ] according to the prompt.
 
 ### Uninstall:
 ```sh
@@ -37,9 +37,10 @@ cp ./cdecrypt /usr/local/bin
 
 ### 用法：
 ```sh
-cdecrypt  <文件或目录>
+cd 文件目录
+cdecrypt ./title.tmd ./title.tik
 ```
-或者将 run.sh 复制到 [文件或目录] 并运行它。
+或者直接运行 Run.app ，根据提示选择 [ 文件目录 ] 。
 ### 卸载:
 ```sh
 rm /usr/local/bin/cdecrypt
