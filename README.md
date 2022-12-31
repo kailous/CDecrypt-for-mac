@@ -51,6 +51,10 @@ It is a command line tool and needs to be run with a script. Windows platform ha
 
 ## 手动命令行 / Manual command line：
 
+<aside>
+💡 技术水平有限，app的体验并不是很好，无法查看运行过程。仅提供了关键文件缺失的报错提示。中间如果意料之外出错无法查明原因。只推荐给不会使用命令行的小伙伴，有点动手能力的小伙伴，更建议使用手动的方式。
+</aside>
+
 ### 安装 / Install
 
 载入 [ CDecrypt for mac.dmg ] 镜像
