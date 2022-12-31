@@ -52,7 +52,7 @@ It is a command line tool and needs to be run with a script. Windows platform ha
 ## 手动命令行 / Manual command line：
 
 <aside>
-💡 技术水平有限，app的体验并不是很好，无法查看运行过程。仅提供了关键文件缺失的报错提示。中间如果意料之外出错无法查明原因。只推荐给不会使用命令行的小伙伴，有点动手能力的小伙伴，更建议使用手动的方式。
+💡 技术水平有限，app的体验并不是很好，无法查看运行过程。仅提供了关键文件缺失的报错提示。中间如果意料之外出错无法查明原因。只推荐给不会使用命令行的小伙伴，有点动手能力的小伙伴，更建议使用手动的方式。 | The technical level is limited, the experience of the app is not very good, and it is not possible to view the running process. Only error prompts for missing key files are provided. If there is an unexpected error in the middle, the cause cannot be found. It is only recommended to friends who do not know how to use the command line, and friends with a little hands-on ability are more recommended to use manual methods.
 </aside>
 
 ### 安装 / Install
