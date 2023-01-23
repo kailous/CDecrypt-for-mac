@@ -1,6 +1,6 @@
 # CDecrypt for MacOS
 
-[Goto Github](https://github.com/kailous/CDecrypt-for-mac)
+[Goto Github](https://github.com/kailous/CDecrypt-for-mac) | [Goto Discord](https://discord.gg/dvBJnakPuq)
 
 ----
 
